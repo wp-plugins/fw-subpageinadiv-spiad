@@ -3,7 +3,7 @@ Contributors: fairweb
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=web%40fairweb%2efr&item_name=Donate%20for%20Wordpress%20fw%2dSpiad%20plugin&item_number=WP%2dfw%2dspiad&buyer_credit_promo_code=&buyer_credit_product_category=&buyer_credit_shipping_method=&buyer_credit_user_address_change=&no_shipping=0&no_note=1&tax=0&currency_code=EUR&lc=FR&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: post, sidebar
 Requires at least: 2.x
-Tested up to: 2.2.2
+Tested up to: 2.3
 Stable tag: 1.0
 
 Displays the content of a subpage in a div element when visiting the parent pages.
